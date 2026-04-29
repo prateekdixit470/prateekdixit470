@@ -88,18 +88,6 @@ Secure full-stack banking system with optimized backend
 
 ---
 
-# 📊 GitHub Stats & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekdixit470&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekdixit470&layout=compact&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekdixit470&theme=tokyonight" />
-</p>
-
----
 
 # 🌐 Connect With Me
 
