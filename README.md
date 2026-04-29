@@ -86,18 +86,7 @@ Secure full-stack banking system with optimized backend
 * Built 10+ REST APIs
 * Improved response time (**1.8s → 0.6s**)
 
----
 
-# 📊 GitHub Stats & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekdixit470&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekdixit470&layout=compact&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekdixit470&theme=tokyonight" />
-</p>
 
 ---
 
@@ -107,13 +96,7 @@ Secure full-stack banking system with optimized backend
 💼 **LinkedIn:** https://linkedin.com/in/prateek-dixit-579056256
 💻 **GitHub:** https://github.com/prateekdixit470
 
----
 
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/prateekdixit470/prateekdixit470/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 ---
