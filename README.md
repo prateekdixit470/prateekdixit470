@@ -97,13 +97,6 @@ Secure full-stack banking system with optimized backend
 
 ---
 
-# 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://github.com/prateekdixit470/prateekdixit470/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
----
 
 ⭐ *Thanks for visiting! Let's build scalable systems together 🚀*
